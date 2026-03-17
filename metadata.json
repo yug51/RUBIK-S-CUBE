@@ -1,0 +1,5 @@
+{
+  "name": "Rubix Interactive",
+  "description": "A fully interactive 3D Rubik's Cube with drag-to-rotate controls and scramble functionality.",
+  "requestFramePermissions": []
+}
